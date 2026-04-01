@@ -91,9 +91,9 @@ After deploying:
 
 #### Usefull Links
 
-[Docs GenLayer](https://docs.genlayer.com)
-[GenLayer Studio](https://studio.genlayer.com)
-CLI Docs: Check the GenLayer documentation
+- [Docs GenLayer](https://docs.genlayer.com)
+- [GenLayer Studio](https://studio.genlayer.com)
+- CLI Docs: Check the GenLayer documentation
 
 
 
